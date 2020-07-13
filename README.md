@@ -16,6 +16,7 @@ npx react-native run-android
 - Run Tests:
 yarn test
 
+![](screenshots/ScreenShot1.png | width=100)
 
 ![Alt text](screenshots/ScreenShot1.png?raw=true "Home")
 ![Alt text](screenshots/ScreenShot2.png?raw=true "Search")
