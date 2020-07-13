@@ -54,6 +54,6 @@ export const TextOverview = styled.Text`
 `
 
 export const TextNoImage = styled.Text`
-	fontSize: 10px;
+	fontSize: 20px;
 	color: gray;
 `

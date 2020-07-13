@@ -19,8 +19,8 @@ export const ViewNoImage = styled.View`
 	width: 150px;
 	aspectRatio: 1.8;
 	backgroundColor: #eeeeee; 
-	alignItems: center; 
-	justifyContent: center
+	alignItems: center;
+	justifyContent: center;
 `
 
 export const TextNoImage = styled.Text`

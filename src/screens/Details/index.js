@@ -48,7 +48,7 @@ function DetailsScreen(props) {
 									}}
 								/>
 							) : (
-								<View style={styles.img}>
+								<View style={[styles.img, { alignItems: 'center', justifyContent: 'center' }]}>
 									<TextNoImage>Sem imagem</TextNoImage>
 								</View>
 							)}
