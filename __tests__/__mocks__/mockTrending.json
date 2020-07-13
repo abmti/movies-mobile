@@ -1,0 +1,417 @@
+
+{
+	"page": 1,
+	"results": [
+		{
+			"adult": false,
+			"backdrop_path": "/ydG0xRwMqFzCESJ9TwvPHJM1gkq.jpg",
+			"genre_ids": [
+				28,
+				14
+			],
+			"id": 547016,
+			"original_language": "en",
+			"original_title": "The Old Guard",
+			"overview": "Quatro guerreiros com o dom da imortalidade protegem a humanidade há séculos. Mas seus misteriosos poderes viram alvo de ataque quando outra imortal entra em cena.",
+			"poster_path": "/6aUiWKlFmH5emk40O14oLKF090R.jpg",
+			"release_date": "2020-07-10",
+			"title": "The Old Guard",
+			"video": false,
+			"vote_average": 7.3,
+			"vote_count": 254,
+			"popularity": 128.075,
+			"media_type": "movie"
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/xXBnM6uSTk6qqCf0SRZKXcga9Ba.jpg",
+			"genre_ids": [
+				10752,
+				28,
+				18
+			],
+			"id": 516486,
+			"original_language": "en",
+			"original_title": "Greyhound",
+			"overview": "No início da Segunda Guerra Mundial, um inexperiente capitão da Marinha dos EUA deve liderar um comboio aliado sendo perseguido por barcos e submarinos nazistas.",
+			"poster_path": "/pGucWAQihY1nUKxIQKnBw62iS27.jpg",
+			"release_date": "2020-07-10",
+			"title": "Greyhound: Na Mira do Inimigo",
+			"video": false,
+			"vote_average": 6.1,
+			"vote_count": 39,
+			"popularity": 131.926,
+			"media_type": "movie"
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
+			"genre_ids": [
+				35,
+				10749,
+				878
+			],
+			"id": 587792,
+			"original_language": "en",
+			"original_title": "Palm Springs",
+			"overview": "Nyles é um cara despreocupado que conhece Sarah num casamento em Palm Springs. Mas tudo se complica quando ambos ficaram presos em um loop temporal.",
+			"poster_path": "/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg",
+			"release_date": "2020-01-26",
+			"title": "Palm Springs",
+			"video": false,
+			"vote_average": 8.1,
+			"vote_count": 48,
+			"popularity": 24.266,
+			"media_type": "movie"
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/vpUUznNzW85xo02H16RaSxRNS1.jpg",
+			"genre_ids": [
+				27,
+				18
+			],
+			"id": 539181,
+			"original_language": "en",
+			"original_title": "Relic",
+			"overview": "Quando a velha mãe Edna inexplicavelmente some, cabe à filha Kay e à neta Sam viajar para a decrépita casa de campo da família para encontrar pistas de sua demência espalhadas pela casa.",
+			"poster_path": "/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg",
+			"release_date": "2020-07-03",
+			"title": "Relíquia",
+			"video": false,
+			"vote_average": 7.7,
+			"vote_count": 6,
+			"popularity": 31.746,
+			"media_type": "movie"
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
+			"genre_ids": [
+				36,
+				10402,
+				18
+			],
+			"id": 556574,
+			"original_language": "en",
+			"original_title": "Hamilton",
+			"overview": "Adaptação do musical da Brodway sobre a vida de um dos principais fundadores da América e primeiro secretário do Tesouro, Alexander Hamilton. A sinopse oificial ainda não foi divulgada.",
+			"poster_path": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+			"release_date": "2020-07-03",
+			"title": "Hamilton",
+			"video": false,
+			"vote_average": 8.5,
+			"vote_count": 185,
+			"popularity": 112.497,
+			"media_type": "movie"
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/ckRBJIHrUhQMMkEhuk4iW2NIBWP.jpg",
+			"genre_ids": [
+				878
+			],
+			"id": 606234,
+			"original_language": "en",
+			"original_title": "Archive",
+			"overview": "",
+			"poster_path": "/q9t1AxbzyGQENDunK1GT8OS4aJl.jpg",
+			"release_date": "2020-08-27",
+			"title": "Archive",
+			"video": false,
+			"vote_average": 0.0,
+			"vote_count": 0,
+			"popularity": 19.677,
+			"media_type": "movie"
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/5yiCqzmxYv36GGdc05egCMHedbX.jpg",
+			"genre_ids": [
+				12,
+				14
+			],
+			"id": 428045,
+			"original_language": "ru",
+			"original_title": "Тайна Печати дракона",
+			"overview": "Um viajante Inglês que vai para a China no século 18, a fim de produzir mapas do Extremo Oriente da Rússia, se reunirá com mágicos incorporados em diversos elementos naturais e até mesmo o rei de todos os dragões, Loon Wang.",
+			"poster_path": "/AcL5wrC07KdaUlkLJisaRAJ4J0M.jpg",
+			"release_date": "2019-08-16",
+			"title": "A Máscara de Ferro",
+			"video": false,
+			"vote_average": 5.5,
+			"vote_count": 80,
+			"popularity": 103.578,
+			"media_type": "movie"
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/owdreZiMcBz9y4ayfyLRddpWYR6.jpg",
+			"genre_ids": [
+				18,
+				36
+			],
+			"id": 558582,
+			"original_language": "en",
+			"original_title": "First Cow",
+			"overview": "Quando Cookie Figowitz, cozinheira de um grupo de caçadores de peles que percorriam o território do Oregon na década de 1820, se une ao refugiado Henry Brown, os dois iniciam uma cavalgada selvagem que os leva para a China.",
+			"poster_path": "/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+			"release_date": "2020-03-06",
+			"title": "First Cow",
+			"video": false,
+			"vote_average": 8.5,
+			"vote_count": 11,
+			"popularity": 16.636,
+			"media_type": "movie"
+		},
+		{
+			"id": 531876,
+			"video": false,
+			"vote_count": 82,
+			"vote_average": 7.0,
+			"title": "The Outpost",
+			"release_date": "2020-06-24",
+			"original_language": "en",
+			"original_title": "The Outpost",
+			"genre_ids": [
+				28,
+				18,
+				36,
+				10752
+			],
+			"backdrop_path": "/n1RohH2VoK1CdVI2fXvcP19dSlm.jpg",
+			"adult": false,
+			"overview": "Uma pequena equipe de soldados dos EUA batalham contra centenas de combatentes do Talibã no Afeganistão.",
+			"poster_path": "/hPkqY2EMqWUnFEoedukilIUieVG.jpg",
+			"popularity": 144.252,
+			"media_type": "movie"
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/tnEk5vxs2uqkgtk4pKIaCVKmqmz.jpg",
+			"genre_ids": [],
+			"id": 714301,
+			"original_language": "en",
+			"original_title": "UFC 251: Usman vs. Masvidal",
+			"overview": "",
+			"poster_path": "/jvx7qXvUVsJOv4qFIDQ8ARgf9mb.jpg",
+			"release_date": "2020-07-11",
+			"title": "UFC 251: Usman vs. Masvidal",
+			"video": false,
+			"vote_average": 0.0,
+			"vote_count": 0,
+			"popularity": 32.574,
+			"media_type": "movie"
+		},
+		{
+			"id": 385103,
+			"video": false,
+			"vote_count": 1190,
+			"vote_average": 8.0,
+			"title": "SCOOBY! O Filme",
+			"release_date": "2020-05-15",
+			"original_language": "en",
+			"original_title": "Scoob!",
+			"genre_ids": [
+				12,
+				16,
+				35,
+				9648,
+				10751
+			],
+			"backdrop_path": "/fKtYXUhX5fxMxzQfyUcQW9Shik6.jpg",
+			"adult": false,
+			"overview": "Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo. Enquanto eles correm para parar esse caopocalypse, a gangue descobre que Scooby tem um destino épico maior do que se imaginava.",
+			"poster_path": "/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg",
+			"popularity": 70.248,
+			"media_type": "movie"
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/9guoVF7zayiiUq5ulKQpt375VIy.jpg",
+			"genre_ids": [
+				16,
+				28
+			],
+			"id": 592350,
+			"original_language": "ja",
+			"original_title": "僕のヒーローアカデミア THE MOVIE ヒーローズ：ライジング",
+			"overview": "Izuku, Bakugo e o resto dos alunos da Turma A da Academia de Heróis terão que unir forças mais uma vez para enfrentar o vilão, Nine.",
+			"poster_path": "/Ar8jquseIADaFtMH6dQpskLwDYf.jpg",
+			"release_date": "2019-12-20",
+			"title": "My Hero Academia: Ascensão dos Heróis",
+			"video": false,
+			"vote_average": 8.8,
+			"vote_count": 106,
+			"popularity": 68.428,
+			"media_type": "movie"
+		},
+		{
+			"id": 706510,
+			"video": false,
+			"vote_count": 150,
+			"vote_average": 6.5,
+			"title": "Desperados",
+			"release_date": "2020-07-03",
+			"original_language": "en",
+			"original_title": "Desperados",
+			"genre_ids": [
+				35,
+				10749
+			],
+			"backdrop_path": "/k8H6Qp4uJ9WHArPQwDqCaW9g3Sj.jpg",
+			"adult": false,
+			"overview": "Acompanhada pelos amigos, uma jovem apavorada parte para o México para tentar apagar um e-mail desaforado que enviou ao novo namorado.",
+			"poster_path": "/hoUzSMxGu4Bm73EvH6B3iceFwW8.jpg",
+			"popularity": 92.609,
+			"media_type": "movie"
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/fssh5GyRUrXcS8OtX1b2sVAGh0l.jpg",
+			"genre_ids": [
+				53,
+				18,
+				9648
+			],
+			"id": 602147,
+			"original_language": "en",
+			"original_title": "Inheritance",
+			"overview": "Um patriarca de uma família rica e poderosa falece subitamente, deixando sua esposa e filha com uma herança secreta chocante que ameaça desvendar e destruir suas vidas.",
+			"poster_path": "/zXPjfu3ONgUMmN73Ot0d2RXLJbp.jpg",
+			"release_date": "2020-04-30",
+			"title": "Herança",
+			"video": false,
+			"vote_average": 5.8,
+			"vote_count": 56,
+			"popularity": 50.876,
+			"media_type": "movie"
+		},
+		{
+			"id": 686245,
+			"video": false,
+			"vote_count": 154,
+			"vote_average": 5.7,
+			"title": "Sobreviver à Noite",
+			"release_date": "2020-05-04",
+			"original_language": "en",
+			"original_title": "Survive the Night",
+			"genre_ids": [
+				28,
+				53
+			],
+			"backdrop_path": "/cVnCwyaKP7exbgaCMR9DJS4xleZ.jpg",
+			"adult": false,
+			"overview": "Dois criminosos implacáveis ​​entram na casa de um médico em decadência, para receber atendimento médico depois que um deles é baleado durante um assalto que deu errado. Sabendo que ele não tem o conhecimento necessário para consertar o invasor ferido, o médico deve proteger sua família a todo custo.",
+			"poster_path": "/xCDFEzX1omKlXp7jTqJmLoxJTr9.jpg",
+			"popularity": 35.293,
+			"media_type": "movie"
+		},
+		{
+			"id": 299534,
+			"video": false,
+			"vote_count": 14060,
+			"vote_average": 8.3,
+			"title": "Vingadores: Ultimato",
+			"release_date": "2019-04-24",
+			"original_language": "en",
+			"original_title": "Avengers: Endgame",
+			"genre_ids": [
+				28,
+				12,
+				878
+			],
+			"backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+			"adult": false,
+			"overview": "Após os eventos devastadores de \"Vingadores: Guerra Infinita\", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.",
+			"poster_path": "/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg",
+			"popularity": 49.504,
+			"media_type": "movie"
+		},
+		{
+			"id": 451184,
+			"video": false,
+			"vote_count": 102,
+			"vote_average": 6.4,
+			"title": "Wasp Network: Rede de Espiões",
+			"release_date": "2020-01-29",
+			"original_language": "en",
+			"original_title": "Wasp Network",
+			"genre_ids": [
+				18,
+				36,
+				53
+			],
+			"backdrop_path": "/72r4uAQGsa8KEv0DB2TpSu31lEB.jpg",
+			"adult": false,
+			"overview": "Espiões cubanos se infiltram em grupos de exilados para deter o terrorismo contra Cuba. O preço a pagar, porém, é alto. Baseado em uma emocionante história real.",
+			"poster_path": "/mwZ3tqPFVMwX5I4FPGgR1bWk7kU.jpg",
+			"popularity": 47.309,
+			"media_type": "movie"
+		},
+		{
+			"id": 632304,
+			"video": false,
+			"vote_count": 7,
+			"vote_average": 5.5,
+			"title": "The Beach House",
+			"release_date": "2020-07-09",
+			"original_language": "en",
+			"original_title": "The Beach House",
+			"genre_ids": [
+				27
+			],
+			"backdrop_path": "/tGevRq6AGHM6T98MpPbb3WnoyHP.jpg",
+			"adult": false,
+			"overview": "Um refúgio romântico para dois namorados se transforma em uma luta pela sobrevivência quando convidados inesperados - e o ambiente ao redor - exibem sinais de uma infecção misteriosa",
+			"poster_path": "/wyMjZJNAsvfnW8OS4JWh6TdKWzk.jpg",
+			"popularity": 68.326,
+			"media_type": "movie"
+		},
+		{
+			"id": 495764,
+			"video": false,
+			"vote_count": 4906,
+			"vote_average": 7.2,
+			"title": "Aves de Rapina: Arlequina e sua Emancipação Fantabulosa",
+			"release_date": "2020-02-05",
+			"original_language": "en",
+			"original_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+			"genre_ids": [
+				28,
+				35,
+				80,
+				18
+			],
+			"backdrop_path": "/9xNOiv6DZZjH7ABoUUDP0ZynouU.jpg",
+			"adult": false,
+			"overview": "Arlequina, Canário Negro, Caçadora, Cassandra Cain e a policial Renée Montoya formam um grupo inusitado de heroínas. Quando um perigoso criminoso começa a causar destruição em Gotham, as cinco mulheres precisam se unir para defender a cidade.",
+			"poster_path": "/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg",
+			"popularity": 75.627,
+			"media_type": "movie"
+		},
+		{
+			"adult": false,
+			"backdrop_path": "/tintsaQ0WLzZsTMkTiqtMB3rfc8.jpg",
+			"genre_ids": [
+				28,
+				80,
+				35
+			],
+			"id": 522627,
+			"original_language": "en",
+			"original_title": "The Gentlemen",
+			"overview": "Um traficante inglês muito poderoso tenta vender seu império extremamente lucartivo para um grupo de bilionários do Oklahoma",
+			"poster_path": "/isfhoWF9vnvqweEul2wtY4YBP2v.jpg",
+			"release_date": "2019-12-03",
+			"title": "Magnatas do Crime",
+			"video": false,
+			"vote_average": 7.7,
+			"vote_count": 1582,
+			"popularity": 61.226,
+			"media_type": "movie"
+		}
+	],
+	"total_pages": 1000,
+	"total_results": 20000
+}

@@ -1,0 +1,103 @@
+
+- Start Metro Bundle
+npx react-native start --reset-cache
+
+- Run IOS
+npx react-native run-ios --simulator="iPhone 11 Pro"
+
+- Run IOS Release
+npx react-native run-ios --simulator="iPhone 8" --configuration Release
+
+- IOS Pod Install
+npx pod-install ios
+
+- Run Android
+npx react-native run-android
+
+- Run Android Release
+npx react-native run-android --variant=release
+
+
+- Criar APK Android
+cd android
+./gradlew assembleRelease
+
+
+- Limpar cache (build) Android
+cd android
+./gradlew cleanBuildCache
+
+
+- Limpar cache Android
+cd android
+./gradlew clean
+
+
+- Limpar cache IOS
+cd ios
+xcodebuild clean
+
+
+- Listar emuladores
+emulator -list-avds
+
+
+- Start emulador
+emulator @Pixel_2_API_27
+emulator @Nexus_7_API_25
+
+
+- Listar devices
+adb devices
+
+
+
+- React native job queue
+https://github.com/billmalarky/react-native-queue
+https://hackernoon.com/easy-os-background-tasks-in-react-native-bc4476c48b8a
+
+
+Offline
+https://medium.com/differential/handling-offline-actions-in-react-native-74949cbfabf2
+
+
+- Alterar pacote no ANDROID
+https://stackoverflow.com/questions/37389905/change-package-name-for-android-in-react-native
+
+
+- Instalar versões do node no MAC
+https://medium.com/@katopz/how-to-install-specific-nodejs-version-c6e1cec8aa11
+
+- Setar versão 8 do node (Pauleira no RealmIo)
+export PATH="/usr/local/opt/node@8/bin:$PATH"
+
+
+// IOS nw_socket_handle_socket_event [C6.2:1] Socket SO_ERROR [61: Connection refused]
+https://github.com/facebook/react-native/issues/21030
+
+
+// Get Location
+https://alligator.io/react/geolocation-react-native/
+
+
+// Camera Roll and Share
+https://medium.com/react-native-training/mastering-the-camera-roll-in-react-native-13b3b1963a2d
+
+// Camera
+https://blog.rocketseat.com.br/react-native-camera/
+http://www.davifelipe.com.br/react-native-camera
+
+// Blog
+https://medium.com/react-native-training
+
+// Swipe
+https://medium.com/@bdougie/adding-swipe-to-delete-in-react-native-cfa85a5f5a31
+
+// Push notifications
+https://www.youtube.com/watch?v=VMti_GgKgwY
+
+
+https://stackoverflow.com/questions/51793345/android-material-and-appcompat-manifest-merger-failed
+
+
+https://github.com/ardaogulcan/react-native-keyboard-accessory
