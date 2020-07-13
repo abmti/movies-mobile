@@ -20,7 +20,20 @@ function HomeScreen() {
 
 	function init() {
 		dispatch(fetchTrendings())
+			.then(() => {
+				console.debug('SUCCESS TRENDINGS')
+			})
+			.catch((e) => {
+				alert('Ocorreu um erro ao buscar os filmes mais populares')
+			})
+		
 		dispatch(fetchGenres())
+			.then(() => {
+				console.debug('SUCCESS GENRES')
+			})
+			.catch((e) => {
+				alert('Ocorreu um erro ao buscar os generos')
+			})
 	}
 
   return (
