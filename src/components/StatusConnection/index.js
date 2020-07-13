@@ -12,8 +12,8 @@ function StatusConnection(props) {
 
 	useEffect(() => {
 		const unsubscribe = NetInfo.addEventListener(state => {
-			setConnection(!state.isConnected)
-			dispatch(changeConnectionStatus(!state.isConnected))
+			setConnection(state.isConnected)
+			dispatch(changeConnectionStatus(state.isConnected))
 		});
 		return () => {
 			unsubscribe()

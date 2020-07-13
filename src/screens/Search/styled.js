@@ -11,3 +11,8 @@ export const TextInput = styled.TextInput`
 	margin: 5px;
 	padding: 8px;
 `
+
+export const TextNoResults = styled.Text`
+	marginTop: 15px;
+	alignSelf: center;
+`
