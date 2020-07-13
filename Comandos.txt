@@ -6,7 +6,7 @@ npx react-native start --reset-cache
 npx react-native run-ios --simulator="iPhone 11 Pro"
 
 - Run IOS Release
-npx react-native run-ios --simulator="iPhone 8" --configuration Release
+npx react-native run-ios --simulator="iPhone 11 Pro" --configuration Release
 
 - IOS Pod Install
 npx pod-install ios
