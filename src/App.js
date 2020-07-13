@@ -4,6 +4,7 @@ import { StatusBar } from 'react-native';
 import RootStackScreen from './AppNavigator';
 import store from './store/reduxStore';
 import { Provider } from 'react-redux';
+import StatusConnection from './components/StatusConnection';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
 				<NavigationContainer>
 					<RootStackScreen />
 				</NavigationContainer>
+				<StatusConnection />
 			</Provider>
     </>
   );

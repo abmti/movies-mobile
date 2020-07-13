@@ -10,6 +10,7 @@ import { Container, Content, TitleApp, TitleTrending, ViewTitleApp } from './sty
 function HomeScreen() {
 
 	const dispatch = useDispatch()
+	const connected = useSelector(state => state.app.connected)
 	const trendings = useSelector(state => state.movies.trendings)
 	const genres = useSelector(state => state.movies.genres)
 
@@ -19,7 +20,9 @@ function HomeScreen() {
 	}, []);
 
 	function init() {
-		dispatch(fetchTrendings())
+		if (connected) {
+			
+			dispatch(fetchTrendings())
 			.then(() => {
 				console.debug('SUCCESS TRENDINGS')
 			})
@@ -27,13 +30,16 @@ function HomeScreen() {
 				alert('Ocorreu um erro ao buscar os filmes mais populares')
 			})
 		
-		dispatch(fetchGenres())
-			.then(() => {
-				console.debug('SUCCESS GENRES')
-			})
-			.catch((e) => {
-				alert('Ocorreu um erro ao buscar os generos')
-			})
+			dispatch(fetchGenres())
+				.then(() => {
+					console.debug('SUCCESS GENRES')
+				})
+				.catch((e) => {
+					alert('Ocorreu um erro ao buscar os generos')
+				})
+
+		}
+		
 	}
 
   return (
