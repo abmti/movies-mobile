@@ -10,12 +10,15 @@ function SearchScreen(props) {
 
 	const [value, setValue] = useState('');
 	const dispatch = useDispatch()
+	const connected = useSelector(state => state.app.connected)
 	const movies = useSelector(state => state.movies.filteredMovies)
 	const debouncedSearchTerm = useDebounce(value, 500);
 
 	useEffect(() => {
 		if (debouncedSearchTerm) {
-			dispatch(fetchMoviesByQuery(debouncedSearchTerm))	
+			if (connected) {
+				dispatch(fetchMoviesByQuery(debouncedSearchTerm))	
+			}
 		} 
 	}, [debouncedSearchTerm]);
 
